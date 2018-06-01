@@ -1,2 +1,4 @@
 # Hello-world
-studying
+
+hi Wesker
+this is a good start
